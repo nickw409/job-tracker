@@ -1,3 +1,17 @@
+# Nick's Job Tracker App
+
+## MVP (Minimum Viable Product)
+
+Users can add a job (company, position, link, status: Applied / Interview / Offer / Rejected).
+
+Users can edit / delete job entries.
+
+Users can see a dashboard with all jobs listed.
+
+User authentication (log in to manage their own jobs).
+
+Resume advice: Given a job description, AI (like GPT) suggests resume improvements.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
